@@ -1,0 +1,173 @@
+{
+    "root": {
+        "data": {
+            "id": "a603188799e2",
+            "created": 1624616388,
+            "text": "服务器常用配置"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cccmfx6sapc0",
+                    "created": 1624616378992,
+                    "text": "node守护进程",
+                    "layout_mind_offset": {
+                        "x": -93,
+                        "y": -209
+                    },
+                    "font-weight": "bold"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cccmg2bkt340",
+                            "created": 1624616390166,
+                            "text": "pm2"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cccmg3qizeo0",
+                                    "created": 1624616393246,
+                                    "text": "启动命令：pm2 start app.js"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cccmgjemn7s0",
+                                    "created": 1624616427355,
+                                    "text": "进程状态： pm2 list"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cccmh25mbyw0",
+                                    "created": 1624616468170,
+                                    "text": "重启所有进程： pm2 restart all        # 重启所有进程"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cccmhg48vcg0",
+                                    "created": 1624616498562,
+                                    "text": "pm2 delete 0           # 杀死指定的进程\npm2 delete all         # 杀死全部进程 "
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ccfw8gb80rk0",
+                                    "created": 1624948684675,
+                                    "text": "异常处理"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ccfw8id3y280",
+                                            "created": 1624948689143,
+                                            "text": "ps aux | grep pm2 (查看pm2进程占用情况)\nkill -9 进程号"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cccmhjha1aw0",
+                    "created": 1624616505880,
+                    "text": "nginx",
+                    "layout_mind_offset": {
+                        "x": -52,
+                        "y": 92
+                    },
+                    "font-weight": "bold"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cccmhlrl99s0",
+                            "created": 1624616510857,
+                            "text": "编辑配置vim /etc/nginx/nginx.conf",
+                            "layout_right_offset": {
+                                "x": 1,
+                                "y": 2
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cccmhybx2g80",
+                            "created": 1624616538208,
+                            "text": "重启 nginx -s reload",
+                            "layout_right_offset": {
+                                "x": 21,
+                                "y": 3
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjai6my0vj40",
+                    "created": 1649994356144,
+                    "text": "日志的查看",
+                    "layout_mind_offset": {
+                        "x": 906,
+                        "y": -32
+                    },
+                    "font-weight": "bold",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjai7ghsx0w0",
+                            "created": 1649994420467,
+                            "text": "tail ",
+                            "expandState": "expand",
+                            "layout_right_offset": {
+                                "x": 45,
+                                "y": -10
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjai8kppfc80",
+                                    "created": 1649994508016,
+                                    "text": "-f 循环读取\n-q 不显示处理信息\n-v 显示详细的处理信息\n-c<数目> 显示的字节数\n-n<行数> 显示文件的尾部 n 行内容\n--pid=PID 与-f合用,表示在进程ID,PID死掉之后结束\n-q, --quiet, --silent 从不输出给出文件名的首部\n-s, --sleep-interval=S 与-f合用,表示在每次反复的间隔休眠S秒",
+                                    "layout_right_offset": {
+                                        "x": 78,
+                                        "y": 6
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjaib61o9l40",
+                                    "created": 1649994711181,
+                                    "text": "常用命令 tail -f xxxx/xxxxx"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
