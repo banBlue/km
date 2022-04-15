@@ -1,0 +1,151 @@
+{
+    "root": {
+        "data": {
+            "id": "cjank4k68uw0",
+            "created": 1650009518773,
+            "text": "基础概念"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjankbnb38g0",
+                    "created": 1650009534200,
+                    "text": "JSX",
+                    "layout_mind_offset": {
+                        "x": 16,
+                        "y": -182
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjankdaqdnk0",
+                            "created": 1650009537793,
+                            "text": "1.一种javascript语法拓展\n2.jsx也是一种表达式\n本质上就是react babel能解析的代码,解析成功React.creElement(.....)",
+                            "layout_right_offset": {
+                                "x": 121,
+                                "y": -27
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cjao2hgwk280",
+                    "created": 1650010957428,
+                    "text": "组件",
+                    "layout_mind_offset": {
+                        "x": 351.2500052712858,
+                        "y": 99.99999865889555
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjao2q8989s0",
+                            "created": 1650010976496,
+                            "text": "1.方式一\n通过函数的形式\n\n2.方式二通过class的形式\nclass具有额外的特性",
+                            "layout_right_offset": {
+                                "x": 470,
+                                "y": 44
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjaobyebgc80",
+                            "created": 1650011699555,
+                            "text": "注意： 组件名称必须以大写字母开头。",
+                            "layout_right_offset": {
+                                "x": 526,
+                                "y": 42
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjapt53r9x40",
+                            "created": 1650015867454,
+                            "text": "生命周期",
+                            "layout_right_offset": {
+                                "x": 376.7499969638884,
+                                "y": 23.249999832361993
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjapt7rw3o00",
+                                    "created": 1650015873267,
+                                    "text": "react 16.4后只有三个生命周期\n\n1.componentDidMount   组件挂在时触发\n2.componentDidUpdate  组件更新数据时触发\n3.componentWillUnmount 组件卸载时触发",
+                                    "layout_right_offset": {
+                                        "x": 616.9999930709602,
+                                        "y": -8.499999888241348
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjaq6hdpxjc0",
+                            "created": 1650016912912,
+                            "text": "时间绑定 和 普通javascript行内属性差不多\nclass类中注册时间的三种方式",
+                            "layout_right_offset": {
+                                "x": 569.2499967776239,
+                                "y": 36.49999988824152
+                            },
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjaq7z227s00",
+                                    "created": 1650017029753,
+                                    "text": "1.constructor(props) {\n super(props);\n this.state = {isToggleOn: true\n}; // 为了在回调中使用 `this`，这个绑定是必不可少的 this.handleClick = this.handleClick.bind(this); }",
+                                    "layout_right_offset": {
+                                        "x": 1027.499984689057,
+                                        "y": -12.499999813735371
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjaqaqtju5c0",
+                                    "created": 1650017246917,
+                                    "text": "2.\n// 此语法确保 `handleClick` 内的 `this` 已被绑定。  // 注意: 这是 *实验性* 语法。\nCreate React App\n 默认启用此语法。\n handleClick = () => {    console.log('this is:', this);  }",
+                                    "layout_right_offset": {
+                                        "x": 908.9999918788671,
+                                        "y": 11.999999180436134
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjaq82rcjqg0",
+                                    "created": 1650017037813,
+                                    "text": " 3, <button onClick={() => this.handleClick()}>",
+                                    "layout_right_offset": {
+                                        "x": 746,
+                                        "y": 61
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

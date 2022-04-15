@@ -1,0 +1,38 @@
+{
+    "root": {
+        "data": {
+            "id": "cjaogzh5s800",
+            "created": 1650012093724,
+            "text": "javascript",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjaoh1x9k4w0",
+                    "created": 1650012099051,
+                    "text": "纯函数概念",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjaohgy64140",
+                            "created": 1650012131758,
+                            "text": "函数不会尝试更改入参，且多次调用下相同的入参始终返回相同的结果。\nfunction sum(a, b) {  return a + b;}\n\n\n相反，下面这个函数则不是纯函数，因为它更改了自己的入参：\nfunction withdraw(account, amount) {\n  account.total -= amount;}",
+                            "layout_right_offset": {
+                                "x": 52,
+                                "y": -15
+                            },
+                            "expandState": "expand"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-soil-compat",
+    "version": "1.4.43"
+}
