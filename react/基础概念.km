@@ -83,9 +83,24 @@
                                     "created": 1650015873267,
                                     "text": "react 16.4后只有三个生命周期\n\n1.componentDidMount   组件挂在时触发\n2.componentDidUpdate  组件更新数据时触发\n3.componentWillUnmount 组件卸载时触发",
                                     "layout_right_offset": {
-                                        "x": 616.9999930709602,
-                                        "y": -8.499999888241348
+                                        "x": 655.9999946504832,
+                                        "y": -48.49999988824135
                                     }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjbpybw51ls0",
+                                    "created": 1650117834009,
+                                    "text": "21",
+                                    "layout_right_offset": {
+                                        "x": 438,
+                                        "y": 20
+                                    },
+                                    "image": "",
+                                    "imageTitle": "",
+                                    "imageSize": ""
                                 },
                                 "children": []
                             }
@@ -135,6 +150,31 @@
                                     "layout_right_offset": {
                                         "x": 746,
                                         "y": 61
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjbpiuta4io0",
+                            "created": 1650116621368,
+                            "text": "dom对象获取",
+                            "layout_right_offset": {
+                                "x": 431,
+                                "y": 105.00000256299973
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjbpj0nm0b40",
+                                    "created": 1650116634086,
+                                    "text": "通过 concustor中赋值\nthis.testRef = React.createRef\n\n<div ref={this.testRef}>",
+                                    "layout_right_offset": {
+                                        "x": 637,
+                                        "y": -12
                                     }
                                 },
                                 "children": []
