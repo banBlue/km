@@ -98,9 +98,12 @@
                                         "x": 438,
                                         "y": 20
                                     },
-                                    "image": "",
+                                    "image": "https://gitee.com/name-also/km/raw/main/img/Snipaste_2022-04-16_22-04-52.png",
                                     "imageTitle": "",
-                                    "imageSize": ""
+                                    "imageSize": {
+                                        "width": 0,
+                                        "height": 0
+                                    }
                                 },
                                 "children": []
                             }
@@ -175,6 +178,45 @@
                                     "layout_right_offset": {
                                         "x": 637,
                                         "y": -12
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjbqjmjc2bk0",
+                            "created": 1650119502826,
+                            "text": "父子组件数据传递的方式",
+                            "layout_right_offset": {
+                                "x": 378,
+                                "y": 193
+                            },
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjbqjv18ka80",
+                                    "created": 1650119521323,
+                                    "text": "props",
+                                    "layout_right_offset": {
+                                        "x": 359,
+                                        "y": -23
+                                    },
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjbqjzmdlbc0",
+                                    "created": 1650119531308,
+                                    "text": "孙组件\n\nconst userContext = React.createContext(\"default value\")\n\nconst UserProvider = userContext.Provider\nconst UserConsumer = usercontext.Consumer\n\nexport {UserProvider,UserConsumer}\n\nIMPORT\n根\n<UserProvider value=\"我就是要传的\">\n<A></A>\n</UserProvider>\n\nIMPORT \n孙\n<div>\n<UserConsumer>\n  {username}\n</UserConsumer>\n</div>",
+                                    "layout_right_offset": {
+                                        "x": 647,
+                                        "y": 36
                                     }
                                 },
                                 "children": []
