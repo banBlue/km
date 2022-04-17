@@ -1,0 +1,40 @@
+{
+    "root": {
+        "data": {
+            "id": "cjc7j98iy5s0",
+            "created": 1650167432743,
+            "text": "原理"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjc7jerc2y00",
+                    "created": 1650167444764,
+                    "text": "虚拟dom"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjc7jkz1h8g0",
+                            "created": 1650167458291,
+                            "text": "jsx所有代码会被bable转换成react.createElement"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjc7kuhd3p40",
+                            "created": 1650167557354,
+                            "text": "虚拟dom结构\n{\n  type:'div' //标签\n  props:{}  // 类似行内属性，文本节点是记录在这里面textContent\n  children:[] // 所有的子标签元素\n}",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}

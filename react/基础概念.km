@@ -14,7 +14,8 @@
                     "layout_mind_offset": {
                         "x": 16,
                         "y": -182
-                    }
+                    },
+                    "layout": null
                 },
                 "children": [
                     {
@@ -22,10 +23,16 @@
                             "id": "cjankdaqdnk0",
                             "created": 1650009537793,
                             "text": "1.一种javascript语法拓展\n2.jsx也是一种表达式\n本质上就是react babel能解析的代码,解析成功React.creElement(.....)",
-                            "layout_right_offset": {
-                                "x": 121,
-                                "y": -27
-                            }
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjc74m8sexc0",
+                            "created": 1650166285596,
+                            "text": "jsx经历了从 javascript代码->reactDom对象->真实的dom对象",
+                            "layout": null
                         },
                         "children": []
                     }
@@ -39,7 +46,9 @@
                     "layout_mind_offset": {
                         "x": 351.2500052712858,
                         "y": 99.99999865889555
-                    }
+                    },
+                    "expandState": "expand",
+                    "layout": null
                 },
                 "children": [
                     {
@@ -47,10 +56,7 @@
                             "id": "cjao2q8989s0",
                             "created": 1650010976496,
                             "text": "1.方式一\n通过函数的形式\n\n2.方式二通过class的形式\nclass具有额外的特性",
-                            "layout_right_offset": {
-                                "x": 470,
-                                "y": 44
-                            }
+                            "layout": null
                         },
                         "children": []
                     },
@@ -59,10 +65,7 @@
                             "id": "cjaobyebgc80",
                             "created": 1650011699555,
                             "text": "注意： 组件名称必须以大写字母开头。",
-                            "layout_right_offset": {
-                                "x": 526,
-                                "y": 42
-                            }
+                            "layout": null
                         },
                         "children": []
                     },
@@ -71,10 +74,7 @@
                             "id": "cjapt53r9x40",
                             "created": 1650015867454,
                             "text": "生命周期",
-                            "layout_right_offset": {
-                                "x": 376.7499969638884,
-                                "y": 23.249999832361993
-                            }
+                            "layout": null
                         },
                         "children": [
                             {
@@ -82,10 +82,7 @@
                                     "id": "cjapt7rw3o00",
                                     "created": 1650015873267,
                                     "text": "react 16.4后只有三个生命周期\n\n1.componentDidMount   组件挂在时触发\n2.componentDidUpdate  组件更新数据时触发\n3.componentWillUnmount 组件卸载时触发",
-                                    "layout_right_offset": {
-                                        "x": 655.9999946504832,
-                                        "y": -48.49999988824135
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             },
@@ -94,16 +91,13 @@
                                     "id": "cjbpybw51ls0",
                                     "created": 1650117834009,
                                     "text": "21",
-                                    "layout_right_offset": {
-                                        "x": 438,
-                                        "y": 20
-                                    },
                                     "image": "https://gitee.com/name-also/km/raw/main/img/Snipaste_2022-04-16_22-04-52.png",
                                     "imageTitle": "",
                                     "imageSize": {
                                         "width": 0,
                                         "height": 0
-                                    }
+                                    },
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -114,11 +108,8 @@
                             "id": "cjaq6hdpxjc0",
                             "created": 1650016912912,
                             "text": "时间绑定 和 普通javascript行内属性差不多\nclass类中注册时间的三种方式",
-                            "layout_right_offset": {
-                                "x": 569.2499967776239,
-                                "y": 36.49999988824152
-                            },
-                            "expandState": "collapse"
+                            "expandState": "collapse",
+                            "layout": null
                         },
                         "children": [
                             {
@@ -126,10 +117,7 @@
                                     "id": "cjaq7z227s00",
                                     "created": 1650017029753,
                                     "text": "1.constructor(props) {\n super(props);\n this.state = {isToggleOn: true\n}; // 为了在回调中使用 `this`，这个绑定是必不可少的 this.handleClick = this.handleClick.bind(this); }",
-                                    "layout_right_offset": {
-                                        "x": 1027.499984689057,
-                                        "y": -12.499999813735371
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             },
@@ -138,10 +126,7 @@
                                     "id": "cjaqaqtju5c0",
                                     "created": 1650017246917,
                                     "text": "2.\n// 此语法确保 `handleClick` 内的 `this` 已被绑定。  // 注意: 这是 *实验性* 语法。\nCreate React App\n 默认启用此语法。\n handleClick = () => {    console.log('this is:', this);  }",
-                                    "layout_right_offset": {
-                                        "x": 908.9999918788671,
-                                        "y": 11.999999180436134
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             },
@@ -150,10 +135,7 @@
                                     "id": "cjaq82rcjqg0",
                                     "created": 1650017037813,
                                     "text": " 3, <button onClick={() => this.handleClick()}>",
-                                    "layout_right_offset": {
-                                        "x": 746,
-                                        "y": 61
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -164,10 +146,7 @@
                             "id": "cjbpiuta4io0",
                             "created": 1650116621368,
                             "text": "dom对象获取",
-                            "layout_right_offset": {
-                                "x": 431,
-                                "y": 105.00000256299973
-                            }
+                            "layout": null
                         },
                         "children": [
                             {
@@ -175,10 +154,7 @@
                                     "id": "cjbpj0nm0b40",
                                     "created": 1650116634086,
                                     "text": "通过 concustor中赋值\nthis.testRef = React.createRef\n\n<div ref={this.testRef}>",
-                                    "layout_right_offset": {
-                                        "x": 637,
-                                        "y": -12
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -189,11 +165,8 @@
                             "id": "cjbqjmjc2bk0",
                             "created": 1650119502826,
                             "text": "父子组件数据传递的方式",
-                            "layout_right_offset": {
-                                "x": 378,
-                                "y": 193
-                            },
-                            "expandState": "expand"
+                            "expandState": "collapse",
+                            "layout": null
                         },
                         "children": [
                             {
@@ -201,11 +174,8 @@
                                     "id": "cjbqjv18ka80",
                                     "created": 1650119521323,
                                     "text": "props",
-                                    "layout_right_offset": {
-                                        "x": 359,
-                                        "y": -23
-                                    },
-                                    "expandState": "expand"
+                                    "expandState": "expand",
+                                    "layout": null
                                 },
                                 "children": []
                             },
@@ -214,10 +184,7 @@
                                     "id": "cjbqjzmdlbc0",
                                     "created": 1650119531308,
                                     "text": "孙组件\n\nconst userContext = React.createContext(\"default value\")\n\nconst UserProvider = userContext.Provider\nconst UserConsumer = usercontext.Consumer\n\nexport {UserProvider,UserConsumer}\n\nIMPORT\n根\n<UserProvider value=\"我就是要传的\">\n<A></A>\n</UserProvider>\n\nIMPORT \n孙\n<div>\n<UserConsumer>\n  {username}\n</UserConsumer>\n</div>",
-                                    "layout_right_offset": {
-                                        "x": 647,
-                                        "y": 36
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -227,7 +194,7 @@
             }
         ]
     },
-    "template": "default",
-    "theme": "fresh-blue",
+    "template": "right",
+    "theme": "fresh-soil",
     "version": "1.4.43"
 }
