@@ -10,14 +10,16 @@
                 "data": {
                     "id": "cjc7jerc2y00",
                     "created": 1650167444764,
-                    "text": "虚拟dom"
+                    "text": "虚拟dom",
+                    "layout": null
                 },
                 "children": [
                     {
                         "data": {
                             "id": "cjc7jkz1h8g0",
                             "created": 1650167458291,
-                            "text": "jsx所有代码会被bable转换成react.createElement"
+                            "text": "jsx所有代码会被bable转换成react.createElement",
+                            "layout": null
                         },
                         "children": []
                     },
@@ -25,7 +27,7 @@
                         "data": {
                             "id": "cjc7kuhd3p40",
                             "created": 1650167557354,
-                            "text": "虚拟dom结构\n{\n  type:'div' //标签\n  props:{}  // 类似行内属性，文本节点是记录在这里面textContent\n  children:[] // 所有的子标签元素\n}",
+                            "text": "虚拟dom结构\n{\n  type:'div' //标签\n  props:{}  // 类似行内属性，理由有个children引用了chidren\n  children:[] // 所有的子标签元素\n}\n\n文本节点的type会特殊标记为text\n如果是布尔值或者null会被过滤掉 不添加在children中",
                             "layout": null
                         },
                         "children": []
