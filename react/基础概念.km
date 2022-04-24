@@ -165,7 +165,7 @@
                             "id": "cjbqjmjc2bk0",
                             "created": 1650119502826,
                             "text": "父子组件数据传递的方式",
-                            "expandState": "collapse",
+                            "expandState": "expand",
                             "layout": null
                         },
                         "children": [
@@ -175,7 +175,8 @@
                                     "created": 1650119521323,
                                     "text": "props",
                                     "expandState": "expand",
-                                    "layout": null
+                                    "layout": null,
+                                    "priority": 1
                                 },
                                 "children": []
                             },
@@ -183,8 +184,22 @@
                                 "data": {
                                     "id": "cjbqjzmdlbc0",
                                     "created": 1650119531308,
-                                    "text": "孙组件\n\nconst userContext = React.createContext(\"default value\")\n\nconst UserProvider = userContext.Provider\nconst UserConsumer = usercontext.Consumer\n\nexport {UserProvider,UserConsumer}\n\nIMPORT\n根\n<UserProvider value=\"我就是要传的\">\n<A></A>\n</UserProvider>\n\nIMPORT \n孙\n<div>\n<UserConsumer>\n  {username}\n</UserConsumer>\n</div>",
-                                    "layout": null
+                                    "text": "context方案\n\n孙组件\n\nconst userContext = React.createContext(\"default value\")\n\nconst UserProvider = userContext.Provider\nconst UserConsumer = usercontext.Consumer\n\nexport {UserProvider,UserConsumer}\n\nIMPORT\n根\n<UserProvider value=\"我就是要传的\">\n<A></A>\n</UserProvider>\n\nIMPORT \n孙\n<div>\n<UserConsumer>\n  {username}\n</UserConsumer>\n</div>",
+                                    "layout": null,
+                                    "priority": 2
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjicd7b4bds0",
+                                    "created": 1650790423651,
+                                    "text": "context方案\n标签内形式\n<ThemeContext.Provider value={this.state.theme}>\n<Toolbar changeTheme={this.toggleTheme} />        </ThemeContext.Provider>\n\n孙组件\n通过this.content接收",
+                                    "priority": 3,
+                                    "layout_right_offset": {
+                                        "x": 24.00000197092686,
+                                        "y": 0
+                                    }
                                 },
                                 "children": []
                             }
