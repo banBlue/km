@@ -165,7 +165,7 @@
                             "id": "cjbqjmjc2bk0",
                             "created": 1650119502826,
                             "text": "父子组件数据传递的方式",
-                            "expandState": "expand",
+                            "expandState": "collapse",
                             "layout": null
                         },
                         "children": [
@@ -200,6 +200,50 @@
                                         "x": 24.00000197092686,
                                         "y": 0
                                     }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjj5lzv9p7k0",
+                            "created": 1650872924920,
+                            "text": "模板片段语法(类似于vue的template)"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjj5m8yj7g80",
+                                    "created": 1650872944708,
+                                    "text": "<React.Fragment>\n <td>\n</React.Fragment>",
+                                    "priority": 1
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjj5n145tko0",
+                                    "created": 1650873005998,
+                                    "text": "短语法\n<>\n  <td>\n</>",
+                                    "priority": 2
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjk1ol6dlo80",
+                            "created": 1650963403549,
+                            "text": "高阶组件"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjk1osa1sjk0",
+                                    "created": 1650963419009,
+                                    "text": "1.特点 入参是函数,返回值也是函数\n2.高阶函数只做一件事\n3.有点类似函数科里化\n4.最小单位组件化"
                                 },
                                 "children": []
                             }
