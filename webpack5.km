@@ -1,0 +1,80 @@
+{
+    "root": {
+        "data": {
+            "id": "cjtfynbdi880",
+            "created": 1651917726995,
+            "text": "webpack"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cjtfyr95s880",
+                    "created": 1651917735569,
+                    "text": "核心概念",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cjtfyufj6cg0",
+                            "created": 1651917742484,
+                            "text": "entry入口\n配置寻找入口文件",
+                            "priority": 1,
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtfzd247kw0",
+                            "created": 1651917783032,
+                            "text": "output出口\n打包完后的出口文件",
+                            "priority": 2,
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cjtgnw3b8p40",
+                            "created": 1651919705203,
+                            "text": "loader",
+                            "priority": 3,
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjtgpmlowgw0",
+                                    "created": 1651919841275,
+                                    "text": "1.增强webpack处理文件的能力"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtgpww0ld40",
+                                    "created": 1651919863667,
+                                    "text": "2.module.rules 允许你在 webpack 配置中指定多个 loader"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjtgq3i5tq00",
+                                    "created": 1651919878067,
+                                    "text": "3.执行特点 loader 从右到左"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-purple-compat",
+    "version": "1.4.43"
+}
