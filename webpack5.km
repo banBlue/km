@@ -214,6 +214,26 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjv37quhlkw0",
+                            "created": 1652084885443,
+                            "text": "resolve",
+                            "priority": 6,
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjv37u56n740",
+                                    "created": 1652084892620,
+                                    "text": "解析代理路径\n resolve: { // 解析代理\n\t    extensions: ['.js', '.vue', '.json'], // 解析文件可以不用写后缀名 import File from '../path/to/file'\n\t    alias: { // 代理简化路径\n\t        'vue$': 'vue/dist/vue.runtime.min.js',\n\t        '@': resolve('src')\n\t    }\n\t},",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
