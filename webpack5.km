@@ -48,7 +48,8 @@
                                 "data": {
                                     "id": "cjtgpmlowgw0",
                                     "created": 1651919841275,
-                                    "text": "1.增强webpack处理文件的能力"
+                                    "text": "1.增强webpack处理文件的能力",
+                                    "layout": null
                                 },
                                 "children": []
                             },
@@ -56,7 +57,8 @@
                                 "data": {
                                     "id": "cjtgpww0ld40",
                                     "created": 1651919863667,
-                                    "text": "2.module.rules 允许你在 webpack 配置中指定多个 loader"
+                                    "text": "2.module.rules 允许你在 webpack 配置中指定多个 loader",
+                                    "layout": null
                                 },
                                 "children": []
                             },
@@ -64,7 +66,150 @@
                                 "data": {
                                     "id": "cjtgq3i5tq00",
                                     "created": 1651919878067,
-                                    "text": "3.执行特点 loader 从右到左"
+                                    "text": "3类似流水线工作.一个处理完交给下一个loader继续执行\nuse配置中从右到左\nrules中配置的loader,也是从右到左执行",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv00gmqrhc0",
+                                    "created": 1652075851328,
+                                    "text": "4.可以同步,也可以异步",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv0d0l0tfs0",
+                                    "created": 1652076835130,
+                                    "text": "5.默认认约定 xxxx-loader",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv14ck5br40",
+                                    "created": 1652078977031,
+                                    "text": "loader工具包推荐",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjv14gm9vdc0",
+                                            "created": 1652078985867,
+                                            "text": "loader-utils",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjv14laoxi00",
+                                            "created": 1652078996050,
+                                            "text": "schema-utils",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv25awwh140",
+                                    "created": 1652081872923,
+                                    "text": "本质就是允许对不同类型的文件,转换成不同的方式",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjv25q28ets0",
+                            "created": 1652081905897,
+                            "text": "plugins",
+                            "priority": 4,
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjv2f67v4xs0",
+                                    "created": 1652082646343,
+                                    "text": "loader 被用于转换某些类型的模块，而插件则可以用于执行范围更广的任务。\n插件的范围包括，从打包优化和压缩，一直到重新定义环境中的变量。\n插件接口\n功能极其强大，可以用来处理各种各样的任务。\n总结,就是三界之外",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv2gjrqhrc0",
+                                    "created": 1652082754207,
+                                    "text": "const webpack = require(' webpack')\nwebpack中内置了许多插件",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv2iksbh0g0",
+                                    "created": 1652082913147,
+                                    "text": "apply",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cjv2jjmwfhc0",
+                                            "created": 1652082989007,
+                                            "text": "plugins是一个具有 apply\n 属性的 JavaScript 对象",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cjv2k013yl40",
+                                            "created": 1652083024695,
+                                            "text": "apply会被webpack compiler调用,并且webpack整个生命周期中都能访问到compiler",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cjv2pxkhd6w0",
+                                    "created": 1652083489521,
+                                    "text": "关注compiler生命周期",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cjv2czbaho00",
+                            "created": 1652082474585,
+                            "text": "mode",
+                            "priority": 5,
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cjv2d8wskkg0",
+                                    "created": 1652082495476,
+                                    "text": "值可以为development 或 production,通过配置这个在不同模式下使用不同优化配置",
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -75,6 +220,6 @@
         ]
     },
     "template": "default",
-    "theme": "fresh-purple-compat",
+    "theme": "fresh-red",
     "version": "1.4.43"
 }
