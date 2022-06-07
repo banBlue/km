@@ -1,0 +1,22 @@
+{
+    "root": {
+        "data": {
+            "id": "ckjhcc54ng00",
+            "created": 1654562179755,
+            "text": "vue3"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "ckjhcf55j6o0",
+                    "created": 1654562186286,
+                    "text": "compositionAPI"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
