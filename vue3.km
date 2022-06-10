@@ -8,15 +8,107 @@
         "children": [
             {
                 "data": {
-                    "id": "ckjhcf55j6o0",
-                    "created": 1654562186286,
-                    "text": "compositionAPI"
+                    "id": "ckl6gfa9pag0",
+                    "created": 1654734587757,
+                    "text": "api",
+                    "layout_mind_offset": {
+                        "x": 427,
+                        "y": 149
+                    },
+                    "expandState": "expand",
+                    "layout": null
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "ckjhcf55j6o0",
+                            "created": 1654562186286,
+                            "text": "compositionAPI",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ckl6fulxwwg0",
+                                    "created": 1654734542750,
+                                    "text": "入口是setUp",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckl6hc539480",
+                                    "created": 1654734659277,
+                                    "text": "reactive",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ckl6hfkjgvc0",
+                                            "created": 1654734666742,
+                                            "text": "把对象转换为响应式对象用的",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "ckm14dfvemo0",
+                                    "created": 1654821097779,
+                                    "text": "toRefs",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "ckm14sjz4mw0",
+                                    "created": 1654821130679,
+                                    "text": "ref"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "ckm14udekq80",
+                                            "created": 1654821134635,
+                                            "text": "能把基本类型的数据包装成响应式数据"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "ckl6g18iymw0",
+                            "created": 1654734557176,
+                            "text": "createApp",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "ckl6g9vf71c0",
+                                    "created": 1654734575975,
+                                    "text": "创建vue对象",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
-    "template": "default",
-    "theme": "fresh-blue",
+    "template": "right",
+    "theme": "snow-compact",
     "version": "1.4.43"
 }
