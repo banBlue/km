@@ -1,0 +1,394 @@
+{
+    "root": {
+        "data": {
+            "id": "cl5o4e6c5lk0",
+            "created": 1656815624084,
+            "text": "国际营销与国际贸易"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cl5o6ezs5co0",
+                    "created": 1656815782593,
+                    "text": "1.国际贸易的优势",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl5o7t162q00",
+                            "created": 1656815891516,
+                            "text": "开展国际贸易的原因",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5o827ynyo0",
+                                    "created": 1656815911518,
+                                    "text": "气候、资源稀缺性，政治、技术、比较优势理论",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5obj9flow0",
+                            "created": 1656816183704,
+                            "text": "有限的资源",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5obmtncvc0",
+                                    "created": 1656816191457,
+                                    "text": "土地、劳动力、资本、企业",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5ocwex7a00",
+                            "created": 1656816290698,
+                            "text": "专业化",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5ocyq1ncg0",
+                                    "created": 1656816295725,
+                                    "text": "劳动分工，是指人们在从事生产或服务中，从事其最擅长的部分",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5of91vrcw0",
+                                    "created": 1656816474936,
+                                    "text": "优点：\n1.更好预估时间和成本\n2.熟练技能\n3.减少对工具的需求\n4.更好的掌握环节专业技能\n5.做擅长的工作\n6.节约时间",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5oi7tfef40",
+                            "created": 1656816707341,
+                            "text": "绝对优势理论",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5oibpz5y00",
+                                    "created": 1656816715839,
+                                    "text": "相同资源情况下，一个国家生产比来另一个国家生产更多特定商品",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5oszei9wg0",
+                            "created": 1656817551030,
+                            "text": "比较优势理论（大卫李嘉图）",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5ot1mjtfs0",
+                                    "created": 1656817555870,
+                                    "text": "一个国家生产某种特定的商品比另一个国家生产的效率相对要高",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5ok5n64rk0",
+                            "created": 1656816859337,
+                            "text": "国际贸易的制约因素",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5ok9vn3v40",
+                                    "created": 1656816868557,
+                                    "text": "政治、战略因素",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5oljn6kc00",
+                            "created": 1656816968177,
+                            "text": "规模经济",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5ollo2vog0",
+                                    "created": 1656816972585,
+                                    "text": "1.内部规模经济",
+                                    "layout": null,
+                                    "progress": null,
+                                    "priority": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl5ols76b280",
+                                            "created": 1656816986800,
+                                            "text": "1.技术经济（劳动分工）\n2.财物经济（融资）\n3.管理经济（管理者）\n4.风险分担经济（更多供应商）\n5.商业经济（拿到更低价格产品）\n6.研发经济（新产品）",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5olosgwvc0",
+                                    "created": 1656816979381,
+                                    "text": "2.外部规模经济",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl5p3vbz4vc0",
+                    "created": 1656818404176,
+                    "text": "2.国际收支",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl5p5hh3yo80",
+                            "created": 1656818530740,
+                            "text": "国际收支平衡表",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5p6717x4o0",
+                                    "created": 1656818586375,
+                                    "text": "定义：记录一个国家对其他外部国家的所有外部贸易，以一个年度为计算周期",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5q37qqhk00",
+                                    "created": 1656821173936,
+                                    "text": "余额一般为0（接近0）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5q5w3dasg0",
+                                    "created": 1656821383671,
+                                    "text": "国际收支平衡出现问题的原因",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl5q643w4kw0",
+                                            "created": 1656821401116,
+                                            "text": "进口增加（消费者需求收入增加）\n出口下降（国家名声，政治，战略）",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5p9n3a64o0",
+                            "created": 1656818856421,
+                            "text": "经常项目",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5p9ty3l9s0",
+                                    "created": 1656818871345,
+                                    "text": "定义：记录一国所有进口或出口商品或服务的货币价值",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5podb5wps0",
+                                    "created": 1656820010592,
+                                    "text": "有形贸易收支（看得见的）",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl5q8ozaba80",
+                                            "created": 1656821603279,
+                                            "text": "有形贸易差额 = 出口商品 - 进口商品",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5pogjp9mw0",
+                                    "created": 1656820017639,
+                                    "text": "无形贸易收支（服务）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5ppodj4600",
+                                    "created": 1656820113044,
+                                    "text": "经常项目= 有形贸易 + 无形贸易",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5pxito0940",
+                            "created": 1656820727872,
+                            "text": "资本项目",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5pxngrcx40",
+                                    "created": 1656820737976,
+                                    "text": "定义：记录资产和负债的交易，进入一国的资产总额是进口资产，输出国家的资产总额是出口资产",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5q2l663m00",
+                                    "created": 1656821124803,
+                                    "text": "资本项目 = 进口资产总额 - 出口资产总额",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl5q9spjs800",
+                            "created": 1656821689761,
+                            "text": "国际收支",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl5q9u5mcao0",
+                                    "created": 1656821692910,
+                                    "text": "国际收支 = （所有出口商品和服务总额 + 流入该国的货币额）- （所有进口商品或服务总额 + 该国出口的货币总额）",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl5qbszevy00",
+                                    "created": 1656821847086,
+                                    "text": "干预国际收支平衡",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl5qc6yudp40",
+                                            "created": 1656821877527,
+                                            "text": "调控进口的措施"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl5qdyberu00",
+                                                    "created": 1656822015424,
+                                                    "text": "1.关税（提高进口税）\n2.配额（限制进口额）\n3.政府需求\n4.外国管制（限制企业拥有外币数量）\n5.实物管制（法定限定购买的商品）",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl5qe0q4hgo0",
+                                            "created": 1656822020667,
+                                            "text": "调控出口"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl5qgmppbs00",
+                                                    "created": 1656822225259,
+                                                    "text": "1.出口管制（出口配额限制商品）\n2.出口补贴（补贴商品）",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-blue-compat",
+    "version": "1.4.43"
+}
