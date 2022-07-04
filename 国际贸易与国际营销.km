@@ -11,7 +11,8 @@
                     "id": "cl5o6ezs5co0",
                     "created": 1656815782593,
                     "text": "1.国际贸易的优势",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -185,7 +186,8 @@
                     "id": "cl5p3vbz4vc0",
                     "created": 1656818404176,
                     "text": "2.国际收支",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -349,7 +351,8 @@
                                         "data": {
                                             "id": "cl5qc6yudp40",
                                             "created": 1656821877527,
-                                            "text": "调控进口的措施"
+                                            "text": "调控进口的措施",
+                                            "layout": null
                                         },
                                         "children": [
                                             {
@@ -367,7 +370,8 @@
                                         "data": {
                                             "id": "cl5qe0q4hgo0",
                                             "created": 1656822020667,
-                                            "text": "调控出口"
+                                            "text": "调控出口",
+                                            "layout": null
                                         },
                                         "children": [
                                             {
@@ -380,6 +384,474 @@
                                                 "children": []
                                             }
                                         ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl63in4s09s0",
+                    "created": 1656859057328,
+                    "text": "3.国际汇率的决定因素",
+                    "expandState": "collapse",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl6fy6jzv340",
+                            "created": 1656894128388,
+                            "text": "金本位制",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6fyf9loww0",
+                                    "created": 1656894147351,
+                                    "text": "黄金决定汇率的固定汇率体制",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6g1vhzykw0",
+                                    "created": 1656894417779,
+                                    "text": "第一次世界大战后结束",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6g21yxiqw0",
+                                    "created": 1656894431864,
+                                    "text": "固定汇率体系的优点和缺点",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6g37rwxuo0",
+                                            "created": 1656894522864,
+                                            "text": "优点",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6g39sg81c0",
+                                                    "created": 1656894527250,
+                                                    "text": "1.确定性\n2.不存在拒绝付款的机会\n3.国际贸易稳定有序",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cl6g3uzb4cg0",
+                                            "created": 1656894573378,
+                                            "text": "缺点",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cl6g3xf94ww0",
+                                                    "created": 1656894578695,
+                                                    "text": "1.黄金解决赤字问题\n2.黄金持有量下跌\n3.贸易减少\n4.价格水平下跌",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6g7lthg4o0",
+                                    "created": 1656894866891,
+                                    "text": "固定汇率下跌",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6g7ocrng80",
+                                            "created": 1656894872411,
+                                            "text": "贬值：一种通过降低汇率从而降低本币对外货物价值的故意干扰性行为",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6g8h89i340",
+                                    "created": 1656894935265,
+                                    "text": "固定汇率上升",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6g8jx11ig0",
+                                            "created": 1656894941116,
+                                            "text": "升值：一种通过升高汇率从而提高本币对外货物价值的故意干扰性行为",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6fzr9btmw0",
+                            "created": 1656894251820,
+                            "text": "易货制",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6fzuirqag0",
+                                    "created": 1656894258921,
+                                    "text": "物物交换",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6g9acjwjs0",
+                            "created": 1656894998651,
+                            "text": "浮动汇率体系",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6g9ocj3qo0",
+                                    "created": 1656895029124,
+                                    "text": "定义：各国货币价值依据市场供需平衡关系调整时产生浮动汇率",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6gbl8nt1s0",
+                                    "created": 1656895179089,
+                                    "text": "汇率变化",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6gbtkk1080",
+                                            "created": 1656895197222,
+                                            "text": "升值：货币对外货币价格提升\n贬值：货币对外货币价格降低",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6wk9s31so0",
+                                    "created": 1656940997178,
+                                    "text": "汇率变动对企业的影响",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6wkf99yns0",
+                                            "created": 1656941009101,
+                                            "text": "1.营销决策（出口产品总额=货币需求量， 进口产品总额=货币供给量）\n2.生产决策（货币疲软地投资）\n3.财务决策（关注汇率储备货币，使用远期合约，期货，期权，掉期）\n4.货币投机（牛市买入，熊市卖出）",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl6ww5da0ig0",
+                    "created": 1656941927945,
+                    "text": "4.国际贸易和国际营销环境",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl6wyavi56g0",
+                            "created": 1656942096659,
+                            "text": "市场营销界定",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6wye1oljc0",
+                                    "created": 1656942103563,
+                                    "text": "国内市场营销",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6wyqmuczs0",
+                                            "created": 1656942130964,
+                                            "text": "在本国内展开市场营销，展开完整的活动计划和实施",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6wyjkf4eg0",
+                                    "created": 1656942115580,
+                                    "text": "国际市场营销",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6wzfnboz40",
+                                            "created": 1656942185413,
+                                            "text": "在许多（跨国）国家实施市场营销",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6wylioul40",
+                                    "created": 1656942119829,
+                                    "text": "全球市场营销",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6x1kmve1c0",
+                                            "created": 1656942352998,
+                                            "text": "以正确的价格和分销渠道向市场提供商品",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6x3qnr6140",
+                            "created": 1656942522840,
+                            "text": "国外市场营销的原因",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6x3u2qkjs0",
+                                    "created": 1656942530277,
+                                    "text": "1.规模经济（内部成本减少，依靠企业内部规模经济提高实现盈利）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6x5dfutgg0",
+                                    "created": 1656942650793,
+                                    "text": "2.市场拓展（受到本国市场影响，1.人口购买力 2.人口收入 3.人口分布 4.人口增长率）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6x7dnx8a00",
+                                    "created": 1656942808009,
+                                    "text": "3.新市场（获取他国市场潜在信息，有助于帮助企业做出决策）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6x9qldzl40",
+                                    "created": 1656942992882,
+                                    "text": "4.竞争（国内市场竞争水平有助于参考）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xa1xq6880",
+                                    "created": 1656943017573,
+                                    "text": "5.风险分散（在多国进行市场营销，有助于分散风险避免，避免一个市场亏损）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xck7jvps0",
+                                    "created": 1656943214077,
+                                    "text": "6.经济条件（任何企业在国内都需考虑经济信息）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xdcalvq80",
+                                    "created": 1656943275212,
+                                    "text": "7.技术因素（企业必须能够确认自己所能利用的技术水平，只有这样才能了解到什么时机引进新的技\n术最为经济。）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl6xeewuis00",
+                            "created": 1656943359274,
+                            "text": "国际市场营销环境",
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl6xih912hs0",
+                                    "created": 1656943677821,
+                                    "text": "1.社会和文化环境"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6xina5ca00",
+                                            "created": 1656943690950,
+                                            "text": "1.物质文化：一个社会所用的工具和技术体现的物质化\n2.教育：代表一个国家人口的潜在购买用户\n3.语言：市场上的人需要交流\n4.社会组织：大家族意味着有购买倾向\n5.宗教信仰：宗教信仰影响着人们购买力"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xm4ssbo80",
+                                    "created": 1656943964174,
+                                    "text": "政治环境"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6xmk8ttc80",
+                                            "created": 1656943997796,
+                                            "text": "1.运营限制（一个国家可能某些产业由政府控制）\n2.歧视性限制（歧视性的法律地址）\n3.稳定\n4.国际环境\n5.直接抵制（关系恶化，全面禁止了与某国贸易来往）",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xrz03d280",
+                                    "created": 1656944421740,
+                                    "text": "法律环境"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6xs61e0yo0",
+                                            "created": 1656944437056,
+                                            "text": "知晓出口产品国的法律，有些严格有些不严"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xoh9e5k80",
+                                    "created": 1656944148028,
+                                    "text": "经济环境"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6xom83u7c0",
+                                            "created": 1656944158834,
+                                            "text": "1.发达国家、欠发达国家、新兴经济体\n2.货币流通（企业从事生产和服务，都会伴随汇率变动产生成本变化）\n3.财富的收入和分配（会限制潜在消费用户）\n4.通货膨胀\n5.国际收支平衡",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xt22i5go0",
+                                    "created": 1656944506781,
+                                    "text": "负债水平"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6xt5v6kfs0",
+                                            "created": 1656944515045,
+                                            "text": "高负债水平，会让其他国家产生信心问题，卷入不确定的市场中"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl6xu4k0sv40",
+                                    "created": 1656944590558,
+                                    "text": "技术环境"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl6xucyhs7s0",
+                                            "created": 1656944608847,
+                                            "text": "英特网，电子信息路的建设"
+                                        },
+                                        "children": []
                                     }
                                 ]
                             }
