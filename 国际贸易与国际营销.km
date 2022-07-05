@@ -876,7 +876,8 @@
                     "id": "cl7aga4e4zc0",
                     "created": 1656980180004,
                     "text": "5.国际市场调研",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -968,7 +969,8 @@
                             "id": "cl7ay54yhxs0",
                             "created": 1656981579709,
                             "text": "调研技术",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "expand"
                         },
                         "children": [
                             {
@@ -976,6 +978,285 @@
                                     "id": "cl7ay72eza80",
                                     "created": 1656981583909,
                                     "text": "1.需求模式分析（找出潜在消费者消费模式变化趋势）\n2.多因素研究法（通过假设或者变量来估计衡量市场潜力）\n3.类比研究法（截面数据分析法，时间序列法）\n4.回归分析法（用于改善类推数据的准确统计方法）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7r9wdnuh40",
+                            "created": 1657027638773,
+                            "text": "市场信息（二手数据）",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rakrfhls0",
+                                    "created": 1657027691848,
+                                    "text": "1.内部信息（内部企业关于用户的数据，竞争对手的数据）\n2.政府公布\n3.因特网，电子信息化公路\n4.数据库\n5.贸易统计数据",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl7rcnxtza00",
+                    "created": 1657027855494,
+                    "text": "6.国际营销组合",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl7rf5c0mm00",
+                            "created": 1657028050085,
+                            "text": "产品性质",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rf7tncyo0",
+                                    "created": 1657028055505,
+                                    "text": "1.无形性（如商誉，服务）\n2.异质性（产品相同，但是微妙不同 如保险）\n3.易逝性（产品上市后生命周期短）\n4.不可分割性（如捆绑销售的产品）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rhv6klpk0",
+                            "created": 1657028263081,
+                            "text": "产品利益",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rhwzt5gw0",
+                                    "created": 1657028267025,
+                                    "text": "1.产品性能（出国后，营销人员需考虑 突出产品特点和性能）\n2.形象（产品或企业形象很大程度影响人员购买）\n3.感知价值",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rjp2i3q80",
+                            "created": 1657028406502,
+                            "text": "产品属性",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rjr0py4o0",
+                                    "created": 1657028410748,
+                                    "text": "1.产品名称\n2.产品设计\n3.产品包装\n4.产品标签",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rkdivesg0",
+                            "created": 1657028459735,
+                            "text": "营销支持",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rkf74z8g0",
+                                    "created": 1657028463379,
+                                    "text": "1.交货\n2.保证\n3.安装\n4.售后",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rmdrmk7c0",
+                            "created": 1657028616992,
+                            "text": "产品政策和策略",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rmh46nxs0",
+                                    "created": 1657028624282,
+                                    "text": "标准化或者修改产品",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rn95npy80",
+                            "created": 1657028685321,
+                            "text": "产品生命周期",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rnb7fftk0",
+                                    "created": 1657028689782,
+                                    "text": "1.导入期\n2.成长期\n3.成熟期\n4.衰退期",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rpflljao0",
+                            "created": 1657028856074,
+                            "text": "波士顿矩阵",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rpr6outs0",
+                                    "created": 1657028881294,
+                                    "text": "明星类业务（高市场增长率，高市场份额，属于产品生命周期的早期阶段）\n瘦狗类业务（低市场增长率，低市场份额，属于产品衰退期）\n金牛类业务（低市场增长率，高市场份额，属于稳定期）\n问题业务（高市场增长率，低市场份额）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rstmae4w0",
+                            "created": 1657029121683,
+                            "text": "渗透退出技术",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rsws2dzs0",
+                                    "created": 1657029128563,
+                                    "text": "1.巩固（继续渗透现有产品市场份额）\n2.开发新产品（对现有市场开发新产品）\n3.新市场（使用现有产品去开发新产品）\n4.多元化（企业业务多元化）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7rw3b6ygw0",
+                            "created": 1657029377873,
+                            "text": "品牌和形象",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7rw5qtwaw0",
+                                    "created": 1657029383172,
+                                    "text": "企业形象\n产品形象\n原产国效应\n品牌战略\n国际品牌\n原产地效应（一个国家如果已经取得了良好的产品声誉，那么其他国家消费者也更容易购买）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7s0msqcfs0",
+                            "created": 1657029733749,
+                            "text": "新产品的开发过程",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7s0ple0gg0",
+                                    "created": 1657029739835,
+                                    "text": "1.创意生成\n2.创意筛选\n3.商业分析\n4.产品开发\n5.产品测试\n6.投放市场",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7s2h82ya00",
+                            "created": 1657029878344,
+                            "text": "促销",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7s2katbu00",
+                                    "created": 1657029885040,
+                                    "text": "本质沟通的过程，让顾客购买产品，产生购买意向",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7s4kp6xhc0",
+                            "created": 1657030042638,
+                            "text": "市场定价的因素",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7s4pps4qg0",
+                                    "created": 1657030053557,
+                                    "text": "1.市场因素\n2.产品因素\n3.地方性因素\n4.成本因素",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7s6es1pyw0",
+                            "created": 1657030186478,
+                            "text": "定价方法"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7s6h8p1xc0",
+                                    "created": 1657030191838,
+                                    "text": "1.成本加成定价法\n2.额外费用加成定价法\n3.撇脂定价法\n4.渗透定价法\n5.竞争定价\n6.倾销定价\n7.母国中心定价法（参照国内市场进行定价）\n8.全球中心定价法（参照多国市场手机消费者信息，进而同一定价）\n9.多国中心定价法（对国外市场特定需求进行市场定价）",
+                                    "layout_right_offset": {
+                                        "x": 0,
+                                        "y": 28.000000834465027
+                                    },
                                     "layout": null
                                 },
                                 "children": []
