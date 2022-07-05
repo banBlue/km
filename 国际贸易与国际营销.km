@@ -12,7 +12,7 @@
                     "created": 1656815782593,
                     "text": "1.国际贸易的优势",
                     "layout": null,
-                    "expandState": "expand"
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -598,7 +598,8 @@
                     "id": "cl6ww5da0ig0",
                     "created": 1656941927945,
                     "text": "4.国际贸易和国际营销环境",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -748,21 +749,24 @@
                             "id": "cl6xeewuis00",
                             "created": 1656943359274,
                             "text": "国际市场营销环境",
-                            "expandState": "expand"
+                            "expandState": "expand",
+                            "layout": null
                         },
                         "children": [
                             {
                                 "data": {
                                     "id": "cl6xih912hs0",
                                     "created": 1656943677821,
-                                    "text": "1.社会和文化环境"
+                                    "text": "1.社会和文化环境",
+                                    "layout": null
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "cl6xina5ca00",
                                             "created": 1656943690950,
-                                            "text": "1.物质文化：一个社会所用的工具和技术体现的物质化\n2.教育：代表一个国家人口的潜在购买用户\n3.语言：市场上的人需要交流\n4.社会组织：大家族意味着有购买倾向\n5.宗教信仰：宗教信仰影响着人们购买力"
+                                            "text": "1.物质文化：一个社会所用的工具和技术体现的物质化\n2.教育：代表一个国家人口的潜在购买用户\n3.语言：市场上的人需要交流\n4.社会组织：大家族意味着有购买倾向\n5.宗教信仰：宗教信仰影响着人们购买力",
+                                            "layout": null
                                         },
                                         "children": []
                                     }
@@ -772,7 +776,8 @@
                                 "data": {
                                     "id": "cl6xm4ssbo80",
                                     "created": 1656943964174,
-                                    "text": "政治环境"
+                                    "text": "政治环境",
+                                    "layout": null
                                 },
                                 "children": [
                                     {
@@ -790,14 +795,16 @@
                                 "data": {
                                     "id": "cl6xrz03d280",
                                     "created": 1656944421740,
-                                    "text": "法律环境"
+                                    "text": "法律环境",
+                                    "layout": null
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "cl6xs61e0yo0",
                                             "created": 1656944437056,
-                                            "text": "知晓出口产品国的法律，有些严格有些不严"
+                                            "text": "知晓出口产品国的法律，有些严格有些不严",
+                                            "layout": null
                                         },
                                         "children": []
                                     }
@@ -807,7 +814,8 @@
                                 "data": {
                                     "id": "cl6xoh9e5k80",
                                     "created": 1656944148028,
-                                    "text": "经济环境"
+                                    "text": "经济环境",
+                                    "layout": null
                                 },
                                 "children": [
                                     {
@@ -825,14 +833,16 @@
                                 "data": {
                                     "id": "cl6xt22i5go0",
                                     "created": 1656944506781,
-                                    "text": "负债水平"
+                                    "text": "负债水平",
+                                    "layout": null
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "cl6xt5v6kfs0",
                                             "created": 1656944515045,
-                                            "text": "高负债水平，会让其他国家产生信心问题，卷入不确定的市场中"
+                                            "text": "高负债水平，会让其他国家产生信心问题，卷入不确定的市场中",
+                                            "layout": null
                                         },
                                         "children": []
                                     }
@@ -842,14 +852,16 @@
                                 "data": {
                                     "id": "cl6xu4k0sv40",
                                     "created": 1656944590558,
-                                    "text": "技术环境"
+                                    "text": "技术环境",
+                                    "layout": null
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "cl6xucyhs7s0",
                                             "created": 1656944608847,
-                                            "text": "英特网，电子信息路的建设"
+                                            "text": "英特网，电子信息路的建设",
+                                            "layout": null
                                         },
                                         "children": []
                                     }
@@ -858,10 +870,123 @@
                         ]
                     }
                 ]
+            },
+            {
+                "data": {
+                    "id": "cl7aga4e4zc0",
+                    "created": 1656980180004,
+                    "text": "5.国际市场调研",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl7ai472p3s0",
+                            "created": 1656980323834,
+                            "text": "客观题",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7ai7jgzrs0",
+                                    "created": 1656980331114,
+                                    "text": "一手数据调研（实地进行调查，通过问卷的形式，可能采用统计调查或者抽样调查）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl7ajbh5b6o0",
+                                    "created": 1656980418044,
+                                    "text": "初级市场 （销售初级产品的市场，原始资源的开采）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl7ajvzbr1k0",
+                                    "created": 1656980462679,
+                                    "text": "二级市场（销售次级产品，加工生产）",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl7ak86fm7s0",
+                                    "created": 1656980489230,
+                                    "text": "三级市场（销售服务）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7anuothw00",
+                            "created": 1656980773324,
+                            "text": "市场调研",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7anwat82g0",
+                                    "created": 1656980776830,
+                                    "text": "1.界定问题（注意市场特点）\n2.选择方法\n3.调研设计（找出国外与国内市场的相同点）\n4.实施调研（数据独家）\n5.分析数据（报告和展示）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7arjquddc0",
+                            "created": 1656981062958,
+                            "text": "国际市场调研的方法",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7arq2npv40",
+                                    "created": 1656981076733,
+                                    "text": "1.跨文化调研（不同市场文化的差异，调研活动）\n2.多国调研（各个国家相关领域内一定程度上相似性时的调研）\n3.国际市场扫描（对国外大量数据，政府，经济报进行数据获取）\n4.营销情报（竞争者，消费者行为，潜在购买者）\n5.职能调研(企业明确对，市场，生产，财物，人力资源，技术及维修进行管理)",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl7ay54yhxs0",
+                            "created": 1656981579709,
+                            "text": "调研技术",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl7ay72eza80",
+                                    "created": 1656981583909,
+                                    "text": "1.需求模式分析（找出潜在消费者消费模式变化趋势）\n2.多因素研究法（通过假设或者变量来估计衡量市场潜力）\n3.类比研究法（截面数据分析法，时间序列法）\n4.回归分析法（用于改善类推数据的准确统计方法）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
     "template": "right",
-    "theme": "fresh-blue-compat",
+    "theme": "fresh-pink-compat",
     "version": "1.4.43"
 }
