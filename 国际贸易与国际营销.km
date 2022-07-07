@@ -1010,7 +1010,8 @@
                     "id": "cl7rcnxtza00",
                     "created": 1657027855494,
                     "text": "6.国际营销组合",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -1018,7 +1019,8 @@
                             "id": "cl7rf5c0mm00",
                             "created": 1657028050085,
                             "text": "产品性质",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1037,7 +1039,8 @@
                             "id": "cl7rhv6klpk0",
                             "created": 1657028263081,
                             "text": "产品利益",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1056,7 +1059,8 @@
                             "id": "cl7rjp2i3q80",
                             "created": 1657028406502,
                             "text": "产品属性",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1075,7 +1079,8 @@
                             "id": "cl7rkdivesg0",
                             "created": 1657028459735,
                             "text": "营销支持",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1094,7 +1099,8 @@
                             "id": "cl7rmdrmk7c0",
                             "created": 1657028616992,
                             "text": "产品政策和策略",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1113,7 +1119,8 @@
                             "id": "cl7rn95npy80",
                             "created": 1657028685321,
                             "text": "产品生命周期",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1132,7 +1139,8 @@
                             "id": "cl7rpflljao0",
                             "created": 1657028856074,
                             "text": "波士顿矩阵",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1151,7 +1159,8 @@
                             "id": "cl7rstmae4w0",
                             "created": 1657029121683,
                             "text": "渗透退出技术",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1170,7 +1179,8 @@
                             "id": "cl7rw3b6ygw0",
                             "created": 1657029377873,
                             "text": "品牌和形象",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1189,7 +1199,8 @@
                             "id": "cl7s0msqcfs0",
                             "created": 1657029733749,
                             "text": "新产品的开发过程",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1208,7 +1219,8 @@
                             "id": "cl7s2h82ya00",
                             "created": 1657029878344,
                             "text": "促销",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1227,7 +1239,8 @@
                             "id": "cl7s4kp6xhc0",
                             "created": 1657030042638,
                             "text": "市场定价的因素",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -1245,7 +1258,9 @@
                         "data": {
                             "id": "cl7s6es1pyw0",
                             "created": 1657030186478,
-                            "text": "定价方法"
+                            "text": "定价方法",
+                            "expandState": "collapse",
+                            "layout": null
                         },
                         "children": [
                             {
@@ -1253,10 +1268,339 @@
                                     "id": "cl7s6h8p1xc0",
                                     "created": 1657030191838,
                                     "text": "1.成本加成定价法\n2.额外费用加成定价法\n3.撇脂定价法\n4.渗透定价法\n5.竞争定价\n6.倾销定价\n7.母国中心定价法（参照国内市场进行定价）\n8.全球中心定价法（参照多国市场手机消费者信息，进而同一定价）\n9.多国中心定价法（对国外市场特定需求进行市场定价）",
-                                    "layout_right_offset": {
-                                        "x": 0,
-                                        "y": 28.000000834465027
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl851aocsvk0",
+                            "created": 1657066460156,
+                            "text": "定价策略",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl852r6wai00",
+                                    "created": 1657066574469,
+                                    "text": "1.投资回报率（企业考虑利润）\n2.市场稳定性（如果产品没有好的声誉，高于竞争对手的价格会受到影响）\n3.抵制新进入者\n4.市场渗透（求市场份额）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl8591vz4kw0",
+                            "created": 1657067067939,
+                            "text": "标准化国际营销、国际化国际营销",
+                            "expandState": "collapse",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl8597xkut40",
+                                    "created": 1657067081096,
+                                    "text": "优点：\n1.降低营销成本\n2.有利于集中控制市场\n3.宣传和开发方面更有效\n4.生产上允许规模经济\n5.反映了单一全球化的趋势\n\n缺点：\n1.忽视了当地法律\n2.忽视了当地文化\n3.忽视了买方文化\n4.抑制了当地营销活动\n5.忽视了个别市场单方面差异",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl85djy2fqo0",
+                            "created": 1657067420704,
+                            "text": "产品在国外销售方式",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl85dmmsl1k0",
+                                    "created": 1657067426554,
+                                    "text": "独立开设工厂",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl85du904ls0",
+                                    "created": 1657067443133,
+                                    "text": "合资企业",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl85eqz16wo0",
+                                            "created": 1657067514364,
+                                            "text": "企业与国外个人、政府、企业合作开设新公司，共同承担业务，新公司有法人实体",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl85dwgioag0",
+                                    "created": 1657067447941,
+                                    "text": "许可和特许经营",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl85gjo4g8o0",
+                                            "created": 1657067655195,
+                                            "text": "以合同的形式，由国外其他公司进行生产产品。 特选经营，允许独家出售自家产品",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl85e0d9xjc0",
+                                    "created": 1657067456452,
+                                    "text": "分销商",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl85kv6l74g0",
+                            "created": 1657067993713,
+                            "text": "分销",
+                            "expandState": "expand",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl85jpx15qw0",
+                                    "created": 1657067903887,
+                                    "text": "1.国外中介选择（时间，空间，技术，资产）\n2.直接出口和间接出口（生产商出口，依靠大企业出口）\n3.输出销售代表（熟知当地文化，和客户建立联系）\n4.本地出口公司\n5.驻外销售部门",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl85i6weu8g0",
+                                    "created": 1657067784126,
+                                    "text": "定义：把货物送到消费者手上的物理过程，涉及运输，存储，装卸过程，一定需要选择进入国外市场方式和选择产品销售渠道",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cl9h3nu2u080",
+                    "created": 1657202058804,
+                    "text": "7.国际市场营销战略和控制",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cl9h7won1y80",
+                            "created": 1657202391523,
+                            "text": "企业战略",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9h7zfvvq80",
+                                    "created": 1657202397524,
+                                    "text": "设置企业目标明确企业要做什么，生产什么产品或者提供服务给顾客",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl9h98j39qg0",
+                            "created": 1657202495673,
+                            "text": "战略分析",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9h9ac6vgw0",
+                                    "created": 1657202499609,
+                                    "text": "swot",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl9h9jl70j40",
+                                    "created": 1657202519744,
+                                    "text": "pest",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cl9h9l3mt5c0",
+                                    "created": 1657202523036,
+                                    "text": "波特五力模型",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl9hx65ran40",
+                                            "created": 1657204371253,
+                                            "text": "1.潜在进入威胁\n2.替代品威胁\n3.供应商议价能力\n4.消费者议价能力\n5.现在企业竞争力",
+                                            "layout": null
+                                        },
+                                        "children": []
                                     },
+                                    {
+                                        "data": {
+                                            "id": "cl9hyzxgpjc0",
+                                            "created": 1657204514419,
+                                            "text": "定义：通过明确市场定位，帮助企业平衡五力",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cl9hzy5huuo0",
+                                    "created": 1657204588915,
+                                    "text": "安索夫矩阵",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cl9i1apogiw0",
+                                            "created": 1657204694621,
+                                            "text": "现有市场\n新市场\n \n现有产品\n新产品",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl9i2icxbmw0",
+                            "created": 1657204789628,
+                            "text": "企业进入国际市场的原因",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9i2lcey800",
+                                    "created": 1657204796128,
+                                    "text": "1.扩大市场规模，从而获得更大的规模效益\n2.延长产品生命周期\n3.支持国际化生产\n4.减少产品投资回报周期\n5.减少库存成本",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl9haul9s400",
+                            "created": 1657202622058,
+                            "text": "利益相关者",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9hayg47x40",
+                                    "created": 1657202630453,
+                                    "text": "1.股东期望获得利润\n2.员工期望工资得到提升\n3.管理者期望完成组织目标\n4.供应商期望得到更多的订单\n5.政府在希望企业能够交税收\n6.社区期望环保和减少噪音污染",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl9hecvn31s0",
+                            "created": 1657202896959,
+                            "text": "选择控制的机制",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9hehzim8g0",
+                                    "created": 1657202908078,
+                                    "text": "控制机制具备的特征\n1.过程 过程是受控系统中的一部分\n2.输出 输出是过程的结果\n3.测量 收集有关的产出数据\n4.统计  收集与产出有关的数据进行比较\n5.标准\n6.比较\n7.决策制定者\n8.输入",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl9hmxq6yyg0",
+                            "created": 1657203569256,
+                            "text": "市场营销分析的三个因素",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9hn22nl4o0",
+                                    "created": 1657203578716,
+                                    "text": "1.环境分析（帮助企业识别当前环境风险）\n2.消费者行为分析 （研究消费者购买行为）\n3.市场调研",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cl9i591ijkg0",
+                            "created": 1657205004440,
+                            "text": "国际市场营销计划中企业的目标",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cl9i5fe8u8o0",
+                                    "created": 1657205018270,
+                                    "text": "1.高利润\n2.高市场份额\n3.销售收入最大化\n4.高增长率\n5.更广泛的市场运营\n6.保证收入稳定性\n7.顾客满意度",
                                     "layout": null
                                 },
                                 "children": []
