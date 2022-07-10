@@ -1415,7 +1415,8 @@
                     "id": "cl9h3nu2u080",
                     "created": 1657202058804,
                     "text": "7.国际市场营销战略和控制",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -1606,6 +1607,64 @@
                                 "children": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "clbmiu92hgg0",
+                    "created": 1657420473696,
+                    "text": "8.国际前沿问题"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "clbmjnf9n4g0",
+                            "created": 1657420537198,
+                            "text": "自由贸易区（各成员国之间允许商品自由流动）"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "clbmkt9bea00",
+                            "created": 1657420628263,
+                            "text": "关税同盟（成员国之间没有关税，对外实行同一关税）"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "clbmloy5r4o0",
+                            "created": 1657420697245,
+                            "text": "共同市场（资产和劳动力可以在各成员国之间自由流通）"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "clbmmg310cg0",
+                            "created": 1657420756313,
+                            "text": "经济同盟"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "clbmodnktkw0",
+                                    "created": 1657420907753,
+                                    "text": "各成员国之间共同的经济政策，使用相同的货币，相同的财政政策和货币政策"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "clbmmioxyjk0",
+                            "created": 1657420761991,
+                            "text": "政治同盟"
+                        },
+                        "children": []
                     }
                 ]
             }
