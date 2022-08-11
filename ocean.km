@@ -1,0 +1,13 @@
+{
+    "root": {
+        "data": {
+            "id": "cm32svhkuts0",
+            "created": 1660208516618,
+            "text": "personality\n性格"
+        },
+        "children": []
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
