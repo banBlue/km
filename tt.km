@@ -1,0 +1,192 @@
+{
+    "root": {
+        "data": {
+            "id": "cs4shusqzeg0",
+            "created": 1682319512565,
+            "text": "MainTopic",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cs4shxxj7m00",
+                    "created": 1682319519385,
+                    "text": "动词",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cs4sj9vppao0",
+                            "created": 1682319623760,
+                            "text": "常见后缀",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cs4slgxn9ps0",
+                            "created": 1682319795843,
+                            "text": "动词类型",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4sljtcdrk0",
+                                    "created": 1682319802113,
+                                    "text": "实义动词",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs4sm1ryh880",
+                                            "created": 1682319841211,
+                                            "text": "主要表示动作,状态,变化,如 吃,跑,跳  \neat,run,jump,look",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cs4slo6jb8g0",
+                                    "created": 1682319811618,
+                                    "text": "非实义动词",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs4sr0g48jc0",
+                                            "created": 1682320230140,
+                                            "text": "情态动词",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs4srwk8mfs0",
+                                                    "created": 1682320300046,
+                                                    "text": "can,could,may,might,must,shall,should,will,would\n用来表示人说话的意愿,能力,推测,义务等等"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4sr4ci3540",
+                                            "created": 1682320238628,
+                                            "text": "系动词",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs4sto10uzk0",
+                                                    "created": 1682320438198,
+                                                    "text": "be,am,is,are,was,were,been,being,look看起来,smell笑起来\n用来连接主语和表语",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4srrbfqlk0",
+                                            "created": 1682320288630,
+                                            "text": "助动词",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs4sv2ef1eo0",
+                                                    "created": 1682320547847,
+                                                    "text": "be,do,have\n用来构成时态,语态,否定句,疑问句"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cs4si0b5e600",
+                    "created": 1682319524562,
+                    "text": "副词",
+                    "layout": null,
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cs4sjdhd1c80",
+                            "created": 1682319631600,
+                            "text": "常见后缀",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cs4si3usrk00",
+                    "created": 1682319532280,
+                    "text": "形容词",
+                    "layout_mind_offset": {
+                        "x": 445,
+                        "y": -106
+                    },
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cs4sjmx4z0o0",
+                            "created": 1682319652145,
+                            "text": "常见后缀",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cs4siyt2y2w0",
+                    "created": 1682319599657,
+                    "text": "名词",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cs4sjpm40dk0",
+                            "created": 1682319658008,
+                            "text": "常见后缀",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "wire",
+    "version": "1.4.43"
+}
