@@ -12,7 +12,7 @@
                     "id": "cs4shxxj7m00",
                     "created": 1682319519385,
                     "text": "动词",
-                    "expandState": "expand",
+                    "expandState": "collapse",
                     "layout": null
                 },
                 "children": [
@@ -23,7 +23,16 @@
                             "text": "常见后缀",
                             "layout": null
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4tbgxw3xs0",
+                                    "created": 1682321833326,
+                                    "text": "en     如:enlarge\nize     如:standardlize\nfy,ify  如:satisfy  beautify 使美丽"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -38,14 +47,15 @@
                                     "id": "cs4sljtcdrk0",
                                     "created": 1682319802113,
                                     "text": "实义动词",
-                                    "layout": null
+                                    "layout": null,
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "cs4sm1ryh880",
                                             "created": 1682319841211,
-                                            "text": "主要表示动作,状态,变化,如 吃,跑,跳  \neat,run,jump,look",
+                                            "text": "主要表示动作,状态,变化,如 吃,跑,跳  \neat,run,jump,look\nI look you",
                                             "layout": null
                                         },
                                         "children": []
@@ -65,7 +75,8 @@
                                             "id": "cs4sr0g48jc0",
                                             "created": 1682320230140,
                                             "text": "情态动词",
-                                            "layout": null
+                                            "layout": null,
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -83,7 +94,8 @@
                                             "id": "cs4sr4ci3540",
                                             "created": 1682320238628,
                                             "text": "系动词",
-                                            "layout": null
+                                            "layout": null,
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -135,9 +147,20 @@
                             "id": "cs4sjdhd1c80",
                             "created": 1682319631600,
                             "text": "常见后缀",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4tewl5ccw0",
+                                    "created": 1682322102477,
+                                    "text": "ly   如 lovely\nwise    如:clockwise顺时针方向的\nward   如:backward向后",
+                                    "priority": null
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -159,9 +182,19 @@
                             "id": "cs4sjmx4z0o0",
                             "created": 1682319652145,
                             "text": "常见后缀",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "expand"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4tgsko96g0",
+                                    "created": 1682322250469,
+                                    "text": "able,ible,ble   如acceptable可接收的\nent,ant\nous  如:dangerous危险的\nsome   如:handsome英俊的\ny       如:dity:脏的\nive     如:attractive:有吸引力的\nless    如:harmless:无害的\nly      如:daily每日的\nic    atomic:原子的\nal,    如:historical:历史的\nish   childish童年的"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -170,7 +203,8 @@
                     "id": "cs4siyt2y2w0",
                     "created": 1682319599657,
                     "text": "名词",
-                    "layout": null
+                    "layout": null,
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -180,7 +214,20 @@
                             "text": "常见后缀",
                             "layout": null
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4tpr231wg0",
+                                    "created": 1682322952446,
+                                    "text": "ation,tion, ion     如:action行动\nence,ance,ency,ancy      如experience经验\nness                   如   kindness善良\nty,ity            如  purity:纯洁\nhood            如childhood童年\nology          如biology生态学\nist,er,or,ian         如\nment        如arrangement安排\nship        如friendship友谊",
+                                    "layout_right_offset": {
+                                        "x": 48.00000394185372,
+                                        "y": 0
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
