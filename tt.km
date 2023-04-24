@@ -28,7 +28,8 @@
                                 "data": {
                                     "id": "cs4tbgxw3xs0",
                                     "created": 1682321833326,
-                                    "text": "en     如:enlarge\nize     如:standardlize\nfy,ify  如:satisfy  beautify 使美丽"
+                                    "text": "en     如:enlarge\nize     如:standardlize\nfy,ify  如:satisfy  beautify 使美丽",
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -83,7 +84,8 @@
                                                 "data": {
                                                     "id": "cs4srwk8mfs0",
                                                     "created": 1682320300046,
-                                                    "text": "can,could,may,might,must,shall,should,will,would\n用来表示人说话的意愿,能力,推测,义务等等"
+                                                    "text": "can,could,may,might,must,shall,should,will,would\n用来表示人说话的意愿,能力,推测,义务等等",
+                                                    "layout": null
                                                 },
                                                 "children": []
                                             }
@@ -121,7 +123,8 @@
                                                 "data": {
                                                     "id": "cs4sv2ef1eo0",
                                                     "created": 1682320547847,
-                                                    "text": "be,do,have\n用来构成时态,语态,否定句,疑问句"
+                                                    "text": "be,do,have\n用来构成时态,语态,否定句,疑问句",
+                                                    "layout": null
                                                 },
                                                 "children": []
                                             }
@@ -139,7 +142,7 @@
                     "created": 1682319524562,
                     "text": "副词",
                     "layout": null,
-                    "expandState": "expand"
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -156,7 +159,8 @@
                                     "id": "cs4tewl5ccw0",
                                     "created": 1682322102477,
                                     "text": "ly   如 lovely\nwise    如:clockwise顺时针方向的\nward   如:backward向后",
-                                    "priority": null
+                                    "priority": null,
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -173,7 +177,7 @@
                         "x": 445,
                         "y": -106
                     },
-                    "expandState": "expand",
+                    "expandState": "collapse",
                     "layout": null
                 },
                 "children": [
@@ -190,7 +194,8 @@
                                 "data": {
                                     "id": "cs4tgsko96g0",
                                     "created": 1682322250469,
-                                    "text": "able,ible,ble   如acceptable可接收的\nent,ant\nous  如:dangerous危险的\nsome   如:handsome英俊的\ny       如:dity:脏的\nive     如:attractive:有吸引力的\nless    如:harmless:无害的\nly      如:daily每日的\nic    atomic:原子的\nal,    如:historical:历史的\nish   childish童年的"
+                                    "text": "able,ible,ble   如acceptable可接收的\nent,ant\nous  如:dangerous危险的\nsome   如:handsome英俊的\ny       如:dity:脏的\nive     如:attractive:有吸引力的\nless    如:harmless:无害的\nly      如:daily每日的\nic    atomic:原子的\nal,    如:historical:历史的\nish   childish童年的",
+                                    "layout": null
                                 },
                                 "children": []
                             }
@@ -204,7 +209,7 @@
                     "created": 1682319599657,
                     "text": "名词",
                     "layout": null,
-                    "expandState": "expand"
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -220,10 +225,7 @@
                                     "id": "cs4tpr231wg0",
                                     "created": 1682322952446,
                                     "text": "ation,tion, ion     如:action行动\nence,ance,ency,ancy      如experience经验\nness                   如   kindness善良\nty,ity            如  purity:纯洁\nhood            如childhood童年\nology          如biology生态学\nist,er,or,ian         如\nment        如arrangement安排\nship        如friendship友谊",
-                                    "layout_right_offset": {
-                                        "x": 48.00000394185372,
-                                        "y": 0
-                                    }
+                                    "layout": null
                                 },
                                 "children": []
                             }
