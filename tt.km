@@ -165,6 +165,54 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "cs4w7rycl280",
+                            "created": 1682330007171,
+                            "text": "变化规则",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4w80ku5200",
+                                    "created": 1682330025945,
+                                    "text": "有比较级和最高级,",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs4vrvyp8tc0",
+                                            "created": 1682328762073,
+                                            "text": "比较级 词尾加-er || 前面加上more  如smaller",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4vs53619c0",
+                                            "created": 1682328781934,
+                                            "text": "最高级 词尾加-est  或者在前面加上most   如 smallest最小的",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4vsf4w2u80",
+                                            "created": 1682328803806,
+                                            "text": "不规则变化   good-better-best",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -200,6 +248,95 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "data": {
+                            "id": "cs4vrrchgns0",
+                            "created": 1682328752023,
+                            "text": "变化规则",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4w9t4rzrs0",
+                                    "created": 1682330166465,
+                                    "text": "比较级和最高级",
+                                    "expandState": "collapse",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs4vrvyp8tc0",
+                                            "created": 1682328762073,
+                                            "text": "比较级 词尾加-er || 前面加上more  如smaller",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4vs53619c0",
+                                            "created": 1682328781934,
+                                            "text": "最高级 词尾加-est  或者在前面加上most   如 smallest最小的",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4vsf4w2u80",
+                                            "created": 1682328803806,
+                                            "text": "不规则变化   good-better-best",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cs4wdk3p7hs0",
+                                    "created": 1682330460266,
+                                    "text": "变副词"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs4we9k7eeg0",
+                                            "created": 1682330515683,
+                                            "text": "辅音字母 + y 结尾的形容词-把y变ily   如happy-happily"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4wfwv2gm00",
+                                            "created": 1682330644770,
+                                            "text": "ic结尾的形容词变成ically  如automatic-automatically"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4wgwtky6g0",
+                                            "created": 1682330723045,
+                                            "text": "le结尾的都变成ly  如comfortable-comfortably  "
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4wk8zuaew0",
+                                            "created": 1682330984637,
+                                            "text": "大部分情况下直接加ly"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -209,7 +346,7 @@
                     "created": 1682319599657,
                     "text": "名词",
                     "layout": null,
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -226,6 +363,81 @@
                                     "created": 1682322952446,
                                     "text": "ation,tion, ion     如:action行动\nence,ance,ency,ancy      如experience经验\nness                   如   kindness善良\nty,ity            如  purity:纯洁\nhood            如childhood童年\nology          如biology生态学\nist,er,or,ian         如\nment        如arrangement安排\nship        如friendship友谊",
                                     "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cs4wsi4w3ww0",
+                            "created": 1682331631447,
+                            "text": "变化规则"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs4wtqmh7co0",
+                                    "created": 1682331728288,
+                                    "text": "单数变复数"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs4wyp08fn40",
+                                            "created": 1682332116587,
+                                            "text": "大部分情况下直接加s"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4wytzib8w0",
+                                            "created": 1682332127428,
+                                            "text": "s,x,sh,ch 词尾加es   bus-buses"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4wzq9yr680",
+                                            "created": 1682332197717,
+                                            "text": "辅音字母+y结尾的  把y变成ies   如baby-babies"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4x0cp55s80",
+                                            "created": 1682332246524,
+                                            "text": "f和fe结尾的变成ves   knife-knives"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs4x0votuls0",
+                                            "created": 1682332287864,
+                                            "text": "不规则变化"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs4x1zivd680",
+                                                    "created": 1682332374575,
+                                                    "text": "sheep-sheep, tooth-teeth"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cs4wtxzc4fk0",
+                                    "created": 1682331744303,
+                                    "text": "所有格"
                                 },
                                 "children": []
                             }
