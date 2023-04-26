@@ -225,42 +225,120 @@
                             },
                             {
                                 "data": {
-                                    "id": "cs6jo0ax0540",
-                                    "created": 1682497724657,
-                                    "text": "过去分词",
-                                    "expandState": "collapse"
+                                    "id": "cs6kgc3yua00",
+                                    "created": 1682499944555,
+                                    "text": "分词",
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
-                                            "id": "cs6k07kiabc0",
-                                            "created": 1682498680844,
-                                            "text": "变化规则和过去式基本一致"
-                                        },
-                                        "children": []
-                                    },
-                                    {
-                                        "data": {
-                                            "id": "cs6k9mc4v4o0",
-                                            "created": 1682499418267,
-                                            "text": "作用"
+                                            "id": "cs6jo0ax0540",
+                                            "created": 1682497724657,
+                                            "text": "过去分词",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
                                                 "data": {
-                                                    "id": "cs6k9rhvxnk0",
-                                                    "created": 1682499429499,
-                                                    "text": "当形容词用\nThe broken vase was on the floor"
+                                                    "id": "cs6k07kiabc0",
+                                                    "created": 1682498680844,
+                                                    "text": "变化规则和过去式基本一致"
                                                 },
                                                 "children": []
                                             },
                                             {
                                                 "data": {
-                                                    "id": "cs6ka2lcz1k0",
-                                                    "created": 1682499453653,
-                                                    "text": "用于被动语态和完成时态中\nThe house was built in 1990\n\nI have eaten breakfast"
+                                                    "id": "cs6k9mc4v4o0",
+                                                    "created": 1682499418267,
+                                                    "text": "作用"
                                                 },
-                                                "children": []
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6k9rhvxnk0",
+                                                            "created": 1682499429499,
+                                                            "text": "当形容词用\nThe broken vase was on the floor"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6ka2lcz1k0",
+                                                            "created": 1682499453653,
+                                                            "text": "用于被动语态和完成时态中\nThe house was built in 1990\n\nI have eaten breakfast"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs6kggvoxsw0",
+                                            "created": 1682499954938,
+                                            "text": "现在分词"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs6kgqpbvvc0",
+                                                    "created": 1682499976321,
+                                                    "text": "作用",
+                                                    "expandState": "collapse"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6kgt3dmm80",
+                                                            "created": 1682499981524,
+                                                            "text": "当形容词或副词使用 表示动作或状态\nThe running water is very refreshing"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6klxrs1yo0",
+                                                            "created": 1682500383528,
+                                                            "text": "构成现在进行时,主动语态\nI am studying for my exams."
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cs6kos6qhmo0",
+                                                    "created": 1682500606464,
+                                                    "text": "变化规则"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6kou8g4340",
+                                                            "created": 1682500610921,
+                                                            "text": "一般加ing\ndo→doing"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6kp9cyrwg0",
+                                                            "created": 1682500643846,
+                                                            "text": "不发音结尾的e 去e在加ing\ndance→dancing"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "cs6kpk3xhxk0",
+                                                            "created": 1682500667244,
+                                                            "text": "以重读闭音节\n结尾的动词，双写尾字母加ing\nrun→running"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
                                             }
                                         ]
                                     }
