@@ -12,7 +12,7 @@
                     "id": "cs4shxxj7m00",
                     "created": 1682319519385,
                     "text": "动词",
-                    "expandState": "collapse",
+                    "expandState": "expand",
                     "layout": null
                 },
                 "children": [
@@ -21,7 +21,8 @@
                             "id": "cs4sj9vppao0",
                             "created": 1682319623760,
                             "text": "常见后缀",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -40,7 +41,8 @@
                             "id": "cs4slgxn9ps0",
                             "created": 1682319795843,
                             "text": "动词类型",
-                            "layout": null
+                            "layout": null,
+                            "expandState": "collapse"
                         },
                         "children": [
                             {
@@ -125,6 +127,138 @@
                                                     "created": 1682320547847,
                                                     "text": "be,do,have\n用来构成时态,语态,否定句,疑问句",
                                                     "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cs6jnrtdb1c0",
+                            "created": 1682497706181,
+                            "text": "变化规则"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cs6k0ip4iow0",
+                                    "created": 1682498705068,
+                                    "text": "过去式",
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs6jnuhbszs0",
+                                            "created": 1682497711984,
+                                            "text": "变化规则"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs6jo233v1c0",
+                                                    "created": 1682497728538,
+                                                    "text": "直接在动词末尾+ed  如 call-called"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cs6jp3zbqw00",
+                                                    "created": 1682497811027,
+                                                    "text": "以不发音e结尾动词  直接加e  like-liked"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cs6jqjjrsy80",
+                                                    "created": 1682497923279,
+                                                    "text": "以辅音字母加y结尾的 改i加ed   study-studied",
+                                                    "layout_right_offset": {
+                                                        "x": 22.00000074704485,
+                                                        "y": 0
+                                                    }
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cs6k3r15ev40",
+                                                    "created": 1682498958302,
+                                                    "text": "重读闭音节结尾，末尾只有一个辅音字母 双写尾字母 加ed   stop-stopped"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cs6jrxwha340",
+                                                    "created": 1682498032887,
+                                                    "text": "不规则变化\nbe  was/were  been"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs6k0rx32kw0",
+                                            "created": 1682498725140,
+                                            "text": "作用"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs6k8w48gtk0",
+                                                    "created": 1682499361193,
+                                                    "text": "用于表示过去发生的动作或状态\nI walked to the store yesterday"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cs6jo0ax0540",
+                                    "created": 1682497724657,
+                                    "text": "过去分词",
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cs6k07kiabc0",
+                                            "created": 1682498680844,
+                                            "text": "变化规则和过去式基本一致"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cs6k9mc4v4o0",
+                                            "created": 1682499418267,
+                                            "text": "作用"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "cs6k9rhvxnk0",
+                                                    "created": 1682499429499,
+                                                    "text": "当形容词用\nThe broken vase was on the floor"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "cs6ka2lcz1k0",
+                                                    "created": 1682499453653,
+                                                    "text": "用于被动语态和完成时态中\nThe house was built in 1990\n\nI have eaten breakfast"
                                                 },
                                                 "children": []
                                             }
@@ -346,7 +480,7 @@
                     "created": 1682319599657,
                     "text": "名词",
                     "layout": null,
-                    "expandState": "expand"
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
