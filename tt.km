@@ -148,14 +148,15 @@
                                     "id": "cs6k0ip4iow0",
                                     "created": 1682498705068,
                                     "text": "过去式",
-                                    "expandState": "collapse"
+                                    "expandState": "expand"
                                 },
                                 "children": [
                                     {
                                         "data": {
                                             "id": "cs6jnuhbszs0",
                                             "created": 1682497711984,
-                                            "text": "变化规则"
+                                            "text": "变化规则",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -170,7 +171,7 @@
                                                 "data": {
                                                     "id": "cs6jp3zbqw00",
                                                     "created": 1682497811027,
-                                                    "text": "以不发音e结尾动词  直接加e  like-liked"
+                                                    "text": "以不发音e结尾动词  直接加d  like-liked"
                                                 },
                                                 "children": []
                                             },
@@ -278,7 +279,8 @@
                                         "data": {
                                             "id": "cs6kggvoxsw0",
                                             "created": 1682499954938,
-                                            "text": "现在分词"
+                                            "text": "现在分词",
+                                            "expandState": "expand"
                                         },
                                         "children": [
                                             {
@@ -286,7 +288,7 @@
                                                     "id": "cs6kgqpbvvc0",
                                                     "created": 1682499976321,
                                                     "text": "作用",
-                                                    "expandState": "collapse"
+                                                    "expandState": "expand"
                                                 },
                                                 "children": [
                                                     {
